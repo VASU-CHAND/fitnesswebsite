@@ -10,6 +10,7 @@
      border-radius: 50%;
      border: 3px solid black;
      padding: 10px;
+     box-sizing: border-box;
 }
 .edit{
      margin-right: 50px;
@@ -23,6 +24,7 @@
      border-style: groove;
      border-color: azure;
      padding: 20px;
+     box-sizing: border-box;
 }
 h1{
      color: rgb(238, 238, 246);
