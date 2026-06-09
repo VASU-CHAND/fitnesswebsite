@@ -1,30 +1,11 @@
 *{
      background-color: rgba(192, 215, 244, 0.5);
 }
-p{  text-decoration: underline;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: large;
-    color: rgb(172, 182, 249);
+h1{
+    margin-bottom: 20px;
+    color: rgb(26, 30, 30);
 }
-h1{ text-align: center;
-    color: rgb(43, 50, 50);
-    text-decoration: underline;
-    text-decoration-style: double;
-    text-decoration-color: rgb(48, 84, 59);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+#firsttransformation{
 
-    
-}
-h4{
-    text-align: center;
-}
-#introtrans{
-    text-align: center;
-}
-.before{
-padding: 70px;
-margin: 50px;
-}
-.after{
-padding: 70px;
+    background-color: rgb(206, 161, 249);
 }
